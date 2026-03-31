@@ -1,0 +1,4 @@
+2024-01-15 10:23:45.123  INFO 12345 --- [main] com.example.Application : Started Application in 3.456 seconds (JVM running for 4.123)
+2024-01-15 10:23:46.456  DEBUG 12345 --- [http-nio-8080-exec-1] com.example.Controller : Received request GET /api/health
+2024-01-15 10:23:47.789  WARN 12345 --- [pool-1-thread-1] com.example.service.Cache : Cache miss for key user:42
+2024-01-15 10:23:48.012  ERROR 12345 --- [main] com.example.db.DataSource : Failed to acquire connection

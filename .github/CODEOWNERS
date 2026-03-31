@@ -1,0 +1,6 @@
+# Global owner
+* @huyngo878
+
+# Sensitive paths require explicit review
+internal/sanitize/ @huyngo878
+.github/workflows/ @huyngo878

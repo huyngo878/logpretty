@@ -1,0 +1,7 @@
+{"time":"2024-01-15T10:23:45Z","level":"INFO","message":"Server started","port":8080}
+{"time":"2024-01-15T10:23:46Z","level":"DEBUG","message":"Handling request","path":"/api/health"}
+{"time":"2024-01-15T10:23:47Z","level":"WARN","message":"Slow query detected","duration_ms":1500,"query":"SELECT * FROM users"}
+{"time":"2024-01-15T10:23:48Z","level":"ERROR","message":"Database connection failed","error":"timeout after 30s"}
+{"ts":1705312800,"lvl":"info","msg":"Worker started","worker_id":3}
+{not valid json
+{"level":"FATAL","message":"Out of memory","heap_mb":4096}
